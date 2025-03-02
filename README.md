@@ -39,7 +39,7 @@ More specifically, the design of ASTS-Adapter has the components as shown in Fig
 
 <br>
 <div align="center">
-    <img src="./ASTS-Adapter-Instruction.png" width="400" />
+    <img src="./ASTS-Adapter-Instruction.png" width="1000" />
 </div>
 <center>Figure 4. Framework of attention-enhanced instruction.</center>
 <br>
