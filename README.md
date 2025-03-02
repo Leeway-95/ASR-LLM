@@ -11,7 +11,7 @@ This code is the official PyTorch implementation of our TKDE'25 paper:
 ### Motivation and Contribution:
 
 <div align="center">
-    <img src="./ASTS-Adapter-Motivation.png" width="900" />
+    <img src="./ASTS-Adapter-Motivation.png" width="1000" />
 </div>
 <center>Figure 1. This diagram illustrates the time-series textual analysis tasks that aim to learn a TS-Text mapping and obtain textual results by observation. For example, time-series anomaly detection outputs 0-1 label text, time-series classification outputs 0-n label text, and we focus on deep-explanation caption text.</center>
 <br><br>
@@ -20,7 +20,7 @@ As shown in Figure **1**, from anomaly detection and classification tasks to cog
 
 <br>
 <div align="center">
-    <img src="./ASTS-Adapter-Method.png" width="1200" />
+    <img src="./ASTS-Adapter-Method.png" width="1000" />
 </div>
 <center>Figure 2. ASTS-Adapter is similar to the process of skipping stones on water.</center>
 <br>
