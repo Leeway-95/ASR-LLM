@@ -1,4 +1,4 @@
-# <img src="ASTS-Adapter-Icon.png" alt="Image description" style="width:40px;height:30px;"> Skip Stones on Water: Aligning Streaming Time Series with LLMs for Impact Analysis
+# <img src="ASTS-Adapter-icon.png" alt="Image description" style="width:40px;height:30px;"> Skip Stones on Water: Aligning Streaming Time Series with LLMs for Impact Analysis
 <!--
 [![KDD](https://img.shields.io/badge/TKDE'25-DUET-orange)](https://arxiv.org/pdf/2412.10859)  [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-blue)](https://pytorch.org/)  ![Stars](https://img.shields.io/github/stars/decisionintelligence/DUET)  [![Visits Badge](https://badges.pufler.dev/visits/decisionintelligence/DUET)](https://badges.pufler.dev/visits/decisionintelligence/DUET)
 This code is the official PyTorch implementation of our TKDE'25 paper: 
@@ -8,6 +8,7 @@ This code is the official PyTorch implementation of our TKDE'25 paper:
 [New🔥] (2025.3.15) Our survey paper is submitted to **ECML-PKDD 2025, Research Track**!
 
 ### Demonstrated Video:
+https://private-user-images.githubusercontent.com/55379108/421592486-56c7da15-c3e2-4de5-9896-d07865f06fed.mp4
 
 ### Background:
 
