@@ -1,4 +1,4 @@
-# <img src="ASR-LLM-icon.png" alt="Image description" style="width:40px;height:30px;"> Skip Stones on Water: Aligning Streaming Time Series with LLMs for Impact Analysis
+# <img src="icon.png" alt="Image description" style="width:40px;height:30px;"> Skip Stones on Water: Aligning Streaming Time Series with LLMs for Impact Analysis
 <!--
 [![KDD](https://img.shields.io/badge/TKDE'25-DUET-orange)](https://arxiv.org/pdf/2412.10859)  [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-blue)](https://pytorch.org/)  ![Stars](https://img.shields.io/github/stars/decisionintelligence/DUET)  [![Visits Badge](https://badges.pufler.dev/visits/decisionintelligence/DUET)](https://badges.pufler.dev/visits/decisionintelligence/DUET)
 This code is the official PyTorch implementation of our TKDE'25 paper: 
@@ -17,7 +17,7 @@ https://private-user-images.githubusercontent.com/55379108/421592486-56c7da15-c3
 ### Motivation and Contribution:
 
 <div align="center">
-    <img src="./ASR-LLM-definition.png" width="1000" />
+    <img src="./definition.png" width="1000" />
 </div>
 <center>Fig.1: This diagram illustrates the textual analysis tasks of STS, which aim to learn the correlations mapping between time series patterns and additional domain information to observe input STS and output textual results. We focus on analysis captions instead of labels that are not in-depth enough.</center>
 <br><br>
@@ -26,7 +26,7 @@ As shown in **Figure 1**, we regard anomaly detection and classification as text
 
 <br>
 <div align="center">
-    <img src="./ASR-LLM-method.png" width="1000" />
+    <img src="./method.png" width="1000" />
 </div>
 <center>Fig.2: ASR-LLM is similar to the process of skipping stones on water.</center>
 <br>
@@ -36,7 +36,7 @@ We bridge the gap between domain information and dynamically changing patterns o
 
 <br>
 <div align="center">
-    <img src="./ASR-LLM-framework.png" width="1000" />
+    <img src="./framework.png" width="1000" />
 </div>
 <center>Fig.3: The framework of ASR-LLM.</center>
 <br>
