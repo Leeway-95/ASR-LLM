@@ -8,7 +8,7 @@ This code is the official PyTorch implementation of our TKDE'25 paper:
 [New🔥] (2025.3.15) Our survey paper is submitted to **ECML-PKDD 2025, Research Track**!
 
 ### Demonstrated Video:
-https://private-user-images.githubusercontent.com/55379108/421592486-56c7da15-c3e2-4de5-9896-d07865f06fed.mp4
+https://private-user-images.githubusercontent.com/55379108/427331266-14c0acfd-5ec1-4144-b2c0-8d7353041ea6.mp4
 
 ### Background:
 
