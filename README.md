@@ -1,4 +1,4 @@
-# <img src="icon.png" alt="Image description" style="width:40px;height:30px;"> Skip Stones on Water: Aligning Streaming Time Series with LLMs for Impact Analysis
+# <img src="icon.png" alt="Image description" style="width:40px;height:30px;"> TimeSAR: Aligning Streaming Time Series with LLMs for Impact Analysis Rapidly
 <!--
 [![KDD](https://img.shields.io/badge/TKDE'25-DUET-orange)](https://arxiv.org/pdf/2412.10859)  [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-blue)](https://pytorch.org/)  ![Stars](https://img.shields.io/github/stars/decisionintelligence/DUET)  [![Visits Badge](https://badges.pufler.dev/visits/decisionintelligence/DUET)](https://badges.pufler.dev/visits/decisionintelligence/DUET)
 This code is the official PyTorch implementation of our TKDE'25 paper: 
@@ -28,17 +28,17 @@ As shown in **Figure 1**, we regard anomaly detection and classification as text
 <div align="center">
     <img src="./method.png" width="1000" />
 </div>
-<center>Fig.2: ASR-LLM is similar to the process of skipping stones on water.</center>
+<center>Fig.2:  is similar to the process of skipping stones on water.</center>
 <br>
 <br>
 
-We bridge the gap between domain information and dynamically changing patterns of STS. Analogized by skipping stones on water, we propose an impact **A**nalysis method of **S**treaming time series **R**apidly aligning with **LLM**s called **ASR-LLM**. We divide the process of skipping stones on water into two stages: (1) hit and bounce rapidly; (2) splashes and ripples, and repeat the above two stages. The first stage involves the divide (hit) segment of STS and the early classification that halts immediately (bounces rapidly) once a label is obtained; the second stage refers to generating captions (ripples) by cognitive diffusion with LLM from labels (splashes), as shown in **Figure 2**.
+We bridge the gap between domain information and dynamically changing patterns of STS. Analogized by skipping stones on water, we propose an impact **A**nalysis method of **S**treaming time series **R**apidly aligning with **LLM**s called **TimeSAR**. We divide the process of skipping stones on water into two stages: (1) hit and bounce rapidly; (2) splashes and ripples, and repeat the above two stages. The first stage involves the divide (hit) segment of STS and the early classification that halts immediately (bounces rapidly) once a label is obtained; the second stage refers to generating captions (ripples) by cognitive diffusion with LLM from labels (splashes), as shown in **Figure 2**.
 
 <br>
 <div align="center">
     <img src="./framework.png" width="1000" />
 </div>
-<center>Fig.3: The framework of ASR-LLM.</center>
+<center>Fig.3: The framework of TimeSAR.</center>
 <br>
 <br>
 
