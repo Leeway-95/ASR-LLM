@@ -3,10 +3,10 @@
 [![KDD](https://img.shields.io/badge/TKDE'25-DUET-orange)](https://arxiv.org/pdf/2412.10859)  [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-blue)](https://pytorch.org/)  ![Stars](https://img.shields.io/github/stars/decisionintelligence/DUET)  [![Visits Badge](https://badges.pufler.dev/visits/decisionintelligence/DUET)](https://badges.pufler.dev/visits/decisionintelligence/DUET)
 This code is the official PyTorch implementation of our TKDE'25 paper: 
 [Skip Stones on Water](https://arxiv.org/pdf/2412.10859): Aligning Streaming Time Series with LLMs for Impact Analysis.
--->
+
 
 [New🔥] (2025.3.15) Our survey paper is submitted to **ECML-PKDD 2025, Research Track**!
-
+-->
 ### Demonstrated Video:
 <!--https://private-user-images.githubusercontent.com/55379108/427331266-14c0acfd-5ec1-4144-b2c0-8d7353041ea6.mp4
 -->
